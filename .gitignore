@@ -1,0 +1,5 @@
+__pycache__/
+*.env
+fastapi-demo-products-with-ui.zip
+package-lock.json
+node_modules/
